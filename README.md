@@ -1,4 +1,14 @@
-## Hi there 👋
+# ¡Hola! Soy Jonathan Hormaza 👋
+
+Full-Stack Web Developer en constante aprendizaje, enfocado en crear soluciones limpias, eficientes y seguras.
+
+## 🛠️ Tecnologías y Herramientas
+* **Backend:** Node.js, Express, Python
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Entorno & Control:** Linux, Git, Termux
+
+## 🚀 Proyectos Actuales
+* 📝 **Zona de Notas:** Una aplicación web full-stack para gestionar notas de manera organizada y sincronizada.
 
 <!--
 **JonathanHormaza/JonathanHormaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
